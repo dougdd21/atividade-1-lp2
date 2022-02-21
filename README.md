@@ -1,2 +1,7 @@
-# atividade-1-lp2
-primeira atividade do Gilvam Vieira Moura em LP2 DE 2022
+Exercício 02
+
+- Faça um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano 
+(primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no ano.
+
+- Dizer também se o aluno está aprovado (APROVADO) ou não (REPROVADO) e, em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado 
+(que é 60% da nota). o Você deve criar uma classe Estudante para resolver este problema.
